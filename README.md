@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bannière.png" width="100%">
+</p>
 # 👋 Hi, I'm Khadidja NOUREDDINE
 
 ## 🎓 About Me
